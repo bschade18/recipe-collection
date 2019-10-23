@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/recipe-collection/static/css/main.2a929e4a.chunk.css",
+    "main.css": "/recipe-collection/static/css/main.8637ae31.chunk.css",
     "main.js": "/recipe-collection/static/js/main.02c8ef70.chunk.js",
     "main.js.map": "/recipe-collection/static/js/main.02c8ef70.chunk.js.map",
     "runtime-main.js": "/recipe-collection/static/js/runtime-main.c6b4a80e.js",
@@ -8,14 +8,14 @@
     "static/js/2.66c42ae9.chunk.js": "/recipe-collection/static/js/2.66c42ae9.chunk.js",
     "static/js/2.66c42ae9.chunk.js.map": "/recipe-collection/static/js/2.66c42ae9.chunk.js.map",
     "index.html": "/recipe-collection/index.html",
-    "precache-manifest.579f2286d43dfe9a68e14a9a58e868d3.js": "/recipe-collection/precache-manifest.579f2286d43dfe9a68e14a9a58e868d3.js",
+    "precache-manifest.08182cce45b32ef46e35079a17c0110f.js": "/recipe-collection/precache-manifest.08182cce45b32ef46e35079a17c0110f.js",
     "service-worker.js": "/recipe-collection/service-worker.js",
-    "static/css/main.2a929e4a.chunk.css.map": "/recipe-collection/static/css/main.2a929e4a.chunk.css.map"
+    "static/css/main.8637ae31.chunk.css.map": "/recipe-collection/static/css/main.8637ae31.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.c6b4a80e.js",
     "static/js/2.66c42ae9.chunk.js",
-    "static/css/main.2a929e4a.chunk.css",
+    "static/css/main.8637ae31.chunk.css",
     "static/js/main.02c8ef70.chunk.js"
   ]
 }
